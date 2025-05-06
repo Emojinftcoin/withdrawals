@@ -1,0 +1,14 @@
+{
+  "2025-05-06": [
+    {
+      "Withdrawal Token": "0b5b1a546841ce325c723e8a5803e6f51ab40e46cff0b79d464b07ff1b6a2b2cc604dc904e085eae2e2279456db2283232f766564c23c3af99205ba9d11dd61694f44c929b85d68605f381b322f5443a2be31f18ccb7b5630ad6d460d2e558e3",
+      "User Name": "Gurmeetsingh",
+      "Wallet Address": "BPDTKEK352GG"
+    },
+    {
+      "Withdrawal Token": "<new_hex_string>",
+      "User Name": "JohnDoe",
+      "Wallet Address": "0x1234567890abcdef"
+    }
+  ]
+}
